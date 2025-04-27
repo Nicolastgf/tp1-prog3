@@ -1,0 +1,9 @@
+/* styles.css */
+.imagen {
+  margin-left: 30px;
+  width: 200px;      /* Ajusta el ancho */
+  height: auto;      /* Mantiene la proporción */
+  border-radius: 8px; /* Bordes redondeados */
+  object-fit: cover;  /* Hace que la imagen cubra el contenedor sin distorsionarse */
+  /* Puedes agregar otros estilos como sombra, borde, etc. */
+}
